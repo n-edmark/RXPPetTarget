@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: RXPPetTarget
+## Notes: Mirrors the RestedXP targeting macro into a per-character macro that also sends your pet to attack (and casts Bane of Agony on warlocks).
+## Author: Nicklas
+## Version: 1.3
+## OptionalDeps: RXPGuides
+
+RXPPetTarget.lua
